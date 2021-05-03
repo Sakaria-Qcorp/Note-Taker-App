@@ -1,8 +1,5 @@
 const express = require("express");
-
 const app = express();
-
-
 PORT = process.env.PORT || 3007;
 
 
@@ -20,4 +17,9 @@ app.get("/addnotes",(req, res) => {
 });
 
 
+
+//The LISTENER starts the server
+app.listen(port, function () {
+    console.log("Express listening On" + PORT);
+});
 
