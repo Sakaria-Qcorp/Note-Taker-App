@@ -12,7 +12,8 @@ app.use(express.json());
 //static folder for js,html,images,style.css
 app.use(express.static("public"));
 
-require("./public/routes/paths.js")(app);
+require("./routes/apiRoute.js")(app);
+require("./routes/paths.js")(app);
 
 
 
@@ -22,4 +23,3 @@ require("./public/routes/paths.js")(app);
 app.listen(PORT, function () {
     console.log("Express listening On " +  PORT);
 });
-
