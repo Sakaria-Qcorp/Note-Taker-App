@@ -1,7 +1,7 @@
 # Project Name: Note Taker App
  
   ## Description
-   create an application called Note Taker that can be used to write and save notes
+   create an application called Note Taker that can be used to write,save and delete notes
 
   ## author
   Sakaria Ahmed
