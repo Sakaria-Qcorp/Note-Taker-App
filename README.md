@@ -1,4 +1,24 @@
+# Project Name: Note Taker App
+ 
+  ## Description
+   create an application called Note Taker that can be used to write and save notes
 
+  ## author
+  Sakaria Ahmed
+
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [dependencies](#dependencies)
+  - [Contribution](#contribution)
+  - [Test](#tests)
+  
+  - [Questions](#Question)
+  - [Additional](#additional)
+
+  ## Installation
+  npm i
+  
 
 ```
 
