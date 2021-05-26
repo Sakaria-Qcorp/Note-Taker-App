@@ -44,6 +44,14 @@
   ## License
   None
   
+  
+  ## Contact
+  For further contact information, contact me here:
+  * Email Address: ahmedsakaria32@gmail.com
+  * GitHub: [Sakaria-Qcorp](https://github.com/Sakaria-Qcorp)
+  
+  ## Any additional information
+  This project can be expanded on and the data could be moved to a database.
 
   
 
