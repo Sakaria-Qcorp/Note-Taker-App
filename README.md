@@ -1,4 +1,4 @@
-Note Taker App
+# Note Taker App
  
   ## Description
    An application that can be used to write and save notes. This application is using Express.js and saves and retrieves note data from a JSON file. The application is launched on Heroku server.
@@ -39,6 +39,8 @@ Note Taker App
 
   ## Application
   Click on the start link below to see the application in action. 
+  
+  [Start](https://notetakerapp21.herokuapp.com/notes)
   
   ## Tests
   npm test
