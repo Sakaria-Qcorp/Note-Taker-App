@@ -1,7 +1,7 @@
-# Project Name: Note Taker App
+Note Taker App
  
   ## Description
-   create an application called Note Taker that can be used to write,save and delete notes
+   An application that can be used to write and save notes. This application is using Express.js and saves and retrieves note data from a JSON file. The application is launched on Heroku server.
 
   ## author
   Sakaria Ahmed
@@ -10,7 +10,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [dependencies](#dependencies)
-  - [Contribution](#contribution)
+  - [Application](#Application)
   - [Test](#tests)
   
   - [Questions](#Question)
@@ -37,8 +37,9 @@
   ## Dependencies
    Express
 
-  ## Contributors
-  NA
+  ## Application
+  Click on the start link below to see the application in action. 
+  
   ## Tests
   npm test
   ## License
